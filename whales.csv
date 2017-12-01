@@ -1,0 +1,445 @@
+1,male,whole,0,0,0,0,none,grid scars,No scars,closed,curved inward
+2,male,whole,3,2,0,5,multiple knicks the same size in multiple areas,parralel scars,No scars,closed,no curve
+3,male,whole,1,0,1,2,upper,grid scars,parralel scars,open,uncertain
+4,male,whole,1,0,0,1,upper,uncertain (picture quality),mixed scars (blurred pattern),open,no curve
+5,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,curved inward
+6,male,whole,2,0,1,3,upper,grid scars,No scars,closed,curved inward
+7,male,whole,3,0,1,4,none,mixed scars (blurred pattern),No scars,open,curved inward
+8,male,whole,0,1,1,2,none,mixed scars (blurred pattern),Isolated scars,open,no curve
+9,female,whole,0,0,1,1,middle,uncertain (picture quality),No scars,open,female
+10,male,whole,3,1,1,5,none,parralel scars,No scars,open,curved inward
+11,male,whole,0,2,1,3,none,parralel scars,No scars,closed,curved inward
+12,male,whole,0,0,0,0,none,parralel scars,Isolated scars,closed,curved inward
+13,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+14,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+15,male,whole,0,0,0,0,middle,grid scars,No scars,open,no curve
+16,male,whole,0,1,0,1,lower,parralel scars,No scars,closed,no curve
+17,male,whole,0,0,0,0,none,grid scars,No scars,closed,no curve
+18,male,whole,1,0,0,1,none,parralel scars,No scars,closed,no curve
+19,male,whole,0,0,0,0,none,No scars,No scars,closed,curved inward
+20,male,whole,1,0,0,1,upper,parralel scars,No scars,open,curved inward
+21,male,whole,0,0,1,1,lower,grid scars,parralel scars,closed,curved inward
+22,male,whole,1,0,0,1,upper,parralel scars,mixed scars (blurred pattern),closed,curved inward
+23,male,whole,0,0,1,1,upper,parralel scars,No scars,closed,curved inward
+24,male,whole,3,0,0,3,upper,grid scars,No scars,closed,no curve
+25,male,whole,0,0,0,0,none,grid scars,No scars,open,no curve
+26,male,whole,0,0,1,1,upper,parralel scars,No scars,closed,curved inward
+27,female,whole,2,0,0,2,upper,parralel scars,Isolated scars,closed,female
+28,male,whole,3,1,0,4,upper,parralel scars,No scars,open,no curve
+29,male,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),uncertain (picture quality),No scars,uncertain,curved inward
+30,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,curved inward
+31,male,whole,0,0,2,2,lower,parralel scars,Isolated scars,closed,curved inward
+32,male,whole,0,0,0,0,none,parralel scars,parralel scars,closed,curved inward
+33,male,whole,2,0,0,2,upper,parralel scars,No scars,open,curved inward
+34,male,whole,1,0,1,2,upper,parralel scars,No scars,closed,curved inward
+35,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+36,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,no curve
+37,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+38,female,whole,0,0,0,0,none,mixed scars (blurred pattern),parralel scars,closed,female
+39,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,female
+40,female,whole,0,0,1,1,upper,mixed scars (blurred pattern),No scars,closed,female
+41,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+42,male,whole,0,1,0,1,middle,parralel scars,Isolated scars,closed,curved inward
+43,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+44,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+45,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+46,male,whole,0,1,0,1,middle,grid scars,No scars,closed,no curve
+47,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+48,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+49,male,whole,0,0,0,0,none,uncertain (picture quality),parralel scars,closed,no curve
+50,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+51,male,whole,0,0,2,2,lower,parralel scars,No scars,open,curved inward
+52,male,whole,0,0,1,1,lower,Isolated scars,No scars,closed,curved inward
+53,male,whole,12,1,0,6,upper,No scars,mixed scars (blurred pattern),uncertain,curved inward
+54,male,whole,0,0,0,0,none,parralel scars,No scars,open,no curve
+55,male,whole,1,0,0,1,upper,parralel scars,No scars,closed,no curve
+56,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+57,female,whole,0,1,1,2,lower,mixed scars (blurred pattern),No scars,closed,female
+58,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,curved inward
+59,male,whole,0,2,0,2,middle,parralel scars,parralel scars,closed,no curve
+60,male,whole,0,0,2,2,lower,grid scars,No scars,open,no curve
+61,male,whole,2,0,0,2,upper,grid scars,No scars,uncertain,no curve
+62,male,whole,2,1,0,3,upper,mixed scars (blurred pattern),No scars,open,no curve
+63,male,whole,broken dorsal fin,broken dorsal fin,0,1,dorsal fin broken off,No scars,Isolated scars,closed,no dorsal fin
+64,male,whole,2,0,1,3,middle,mixed scars (blurred pattern),No scars,closed,no curve
+65,male,whole,1,0,0,1,upper,Isolated scars,No scars,uncertain,curved inward
+66,male,whole,1,1,0,2,middle,uncertain (picture quality),No scars,closed,curved inward
+67,male,whole,0,1,1,2,multiple knicks the same size in multiple areas,parralel scars,No scars,closed,no curve
+68,male,whole,0,0,0,0,none,Isolated scars,No scars,closed,curved inward
+69,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+70,male,whole,0,1,1,2,middle,parralel scars,No scars,open,curved inward
+71,male,whole,4,1,0,5,multiple knicks the same size in multiple areas,No scars,No scars,closed,no curve
+72,male,whole,0,0,1,1,lower,parralel scars,No scars,open,no curve
+73,male,whole,1,2,1,4,lower,parralel scars,No scars,closed,no curve
+74,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+75,male,whole,1,0,0,1,upper,No scars,No scars,closed,curved inward
+76,male,whole,0,2,0,2,middle,mixed scars (blurred pattern),No scars,closed,no curve
+77,male,whole,uncertain (picture quality),0,0,uncertain (picture quality),unknown (picture quality),grid scars,No scars,closed,no curve
+78,male,whole,1,0,0,1,upper,No scars,No scars,closed,no curve
+79,male,whole,2,0,0,2,upper,grid scars,No scars,closed,no curve
+80,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+81,female,whole,0,0,0,0,none,No scars,Isolated scars,closed,female
+82,male,whole,3,1,3,7,multiple knicks the same size in multiple areas,parralel scars,No scars,closed,uncertain
+83,male,whole,1,0,0,1,upper,parralel scars,No scars,closed,curved inward
+84,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+85,female,whole,1,0,0,1,upper,mixed scars (blurred pattern),No scars,closed,female
+86,male,whole,1,0,0,1,upper,parralel scars,No scars,open,no curve
+87,male,whole,1,0,1,2,lower,Isolated scars,No scars,open,curved inward
+88,male,whole,0,1,1,2,lower,parralel scars,No scars,uncertain,curved inward
+89,male,whole,0,0,0,0,none,grid scars,No scars,uncertain,curved inward
+90,male,whole,1,0,0,1,upper,mixed scars (blurred pattern),No scars,open,curved inward
+91,male,whole,0,0,1,1,lower,uncertain (picture quality),No scars,open,no curve
+92,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+93,male,whole,1,1,0,2,middle,parralel scars,grid scars,open,curved inward
+94,female,whole,0,1,0,1,middle,grid scars,No scars,open,female
+95,male,whole,0,1,0,1,middle,uncertain (picture quality),No scars,uncertain,no curve
+96,female,whole,0,1,0,1,middle,grid scars,No scars,closed,female
+97,male,whole,0,2,0,2,middle,parralel scars,No scars,closed,curved inward
+98,female,whole,0,0,0,0,none,parralel scars,parralel scars,open,female
+99,female,whole,0,0,1,1,lower,uncertain (picture quality),No scars,open,female
+100,female,whole,1,0,1,2,lower,mixed scars (blurred pattern),No scars,closed,female
+101,male,whole,0,1,0,1,middle,uncertain (picture quality),No scars,closed,curved inward
+102,female,whole,0,0,1,1,lower,parralel scars,No scars,open,female
+103,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,female
+104,female,whole,1,0,0,1,upper,parralel scars,No scars,open,female
+105,male,whole,0,0,0,0,none,grid scars,No scars,closed,curved inward
+106,female,whole,1,0,0,1,upper,parralel scars,Isolated scars,open,female
+107,male,whole,2,0,0,2,upper,parralel scars,No scars,open,curved inward
+108,male,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain,unknown (picture quality),parralel scars,No scars,open,curved inward
+109,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,open,curved inward
+110,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+111,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,female
+112,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,curved inward
+113,female,whole,0,0,0,0,none,parralel scars,parralel scars,open,female
+114,female,whole,0,0,0,0,none,Isolated scars,Isolated scars,open,female
+115,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,female
+116,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,female
+117,male,whole,0,0,1,1,lower,uncertain (picture quality),Isolated scars,closed,curved inward
+118,female,whole,0,0,0,0,none,parralel scars,Isolated scars,open,female
+119,female,whole,0,0,0,0,none,No scars,No scars,closed,female
+120,male,whole,0,0,1,1,lower,grid scars,No scars,uncertain,no curve
+121,female,whole,0,1,1,2,middle,uncertain (picture quality),No scars,uncertain,female
+122,female,whole,0,0,0,0,none,parralel scars,No scars,uncertain,female
+123,male,whole,0,0,1,1,lower,Isolated scars,No scars,uncertain,no curve
+124,female,whole,0,0,2,2,lower,parralel scars,No scars,open,female
+125,female,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),mixed scars (blurred pattern),Isolated scars,open,female
+126,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+127,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+128,female,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),Isolated scars,No scars,open,female
+129,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,curved inward
+130,female,whole,0,0,0,0,none,Isolated scars,No scars,open,female
+131,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,open,female
+132,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,open,female
+133,female,whole,0,0,1,1,lower,Isolated scars,No scars,open,female
+134,male,whole,0,0,0,0,none,Isolated scars,No scars,open,curved inward
+135,female,whole,0,1,0,1,middle,parralel scars,No scars,uncertain,female
+136,female,whole,2,0,0,2,upper,parralel scars,No scars,open,female
+137,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+138,female,whole,0,0,0,0,none,parralel scars,mixed scars (blurred pattern),open,female
+139,female,whole,1,0,0,1,upper,mixed scars (blurred pattern),No scars,open,female
+140,female,whole,2,0,1,3,lower,uncertain (picture quality),No scars,open,female
+141,female,whole,0,0,0,0,none,Isolated scars,parralel scars,open,female
+142,male,whole,0,1,0,1,middle,uncertain (picture quality),Isolated scars,closed,curved inward
+143,male,whole,0,0,0,0,none,Isolated scars,No scars,uncertain,no curve
+144,male,whole,0,0,1,1,lower,grid scars,No scars,closed,curved inward
+145,male,whole,1,0,0,1,upper,grid scars,No scars,open,no curve
+146,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+147,male,whole,0,1,0,1,middle,parralel scars,No scars,open,no curve
+148,male,whole,2,0,0,2,upper,Isolated scars,No scars,closed,no curve
+149,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+150,female,whole,0,0,0,0,none,Isolated scars,No scars,uncertain,female
+151,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,uncertain,curved inward
+152,female,whole,0,0,0,0,none,Isolated scars,No scars,uncertain,female
+153,male,whole,1,0,0,1,upper,Isolated scars,No scars,open,no curve
+154,male,whole,0,0,0,0,none,mixed scars (blurred pattern),Isolated scars,open,no curve
+155,male,whole,0,0,0,0,none,No scars,parralel scars,open,no curve
+156,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,curved inward
+157,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,uncertain,curved inward
+158,male,whole,0,0,0,0,none,grid scars,No scars,open,curved inward
+159,male,whole,0,0,0,0,none,Isolated scars,parralel scars,open,curved inward
+160,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+161,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,curved inward
+162,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,curved inward
+163,male,whole,0,1,0,1,middle,parralel scars,No scars,open,no curve
+164,male,whole,1,0,0,1,upper,grid scars,No scars,open,curved inward
+165,male,whole,0,0,0,0,none,grid scars,No scars,open,curved inward
+166,female,whole,1,0,0,1,upper,grid scars,No scars,open,female
+167,male,whole,0,0,1,1,lower,mixed scars (blurred pattern),Isolated scars,closed,no curve
+168,female,whole,2,0,0,2,upper,uncertain (picture quality),No scars,open,female
+169,female,whole,0,0,0,0,none,Isolated scars,No scars,open,female
+170,female,whole,0,0,0,0,none,Isolated scars,No scars,closed,female
+171,male,whole,1,0,0,1,upper,parralel scars,No scars,open,no curve
+172,female,whole,0,0,0,0,none,parralel scars,parralel scars,closed,female
+173,male,whole,0,0,1,1,lower,uncertain (picture quality),No scars,uncertain,no curve
+174,male,whole,0,0,0,0,none,grid scars,No scars,uncertain,curved inward
+175,male,whole,1,0,0,1,upper,parralel scars,No scars,uncertain,no curve
+176,male,whole,0,1,0,1,middle,parralel scars,No scars,uncertain,no curve
+177,male,whole,0,0,0,0,none,uncertain (picture quality),mixed scars (blurred pattern),open,curved inward
+178,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+179,male,whole,0,0,0,0,none,No scars,No scars,uncertain,curved inward
+180,male,whole,2,0,0,2,upper,parralel scars,No scars,uncertain,no curve
+181,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+182,female,whole,1,0,0,1,upper,grid scars,No scars,open,female
+183,male,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),No scars,No scars,uncertain,no curve
+184,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,curved inward
+185,male,whole,1,0,0,1,upper,parralel scars,parralel scars,open,no curve
+186,male,whole,0,0,1,1,lower,grid scars,No scars,uncertain,curved inward
+187,male,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),parralel scars,No scars,uncertain,curved inward
+188,male,whole,broken dorsal tip,0,0,1,upper,uncertain (picture quality),No scars,open,floppy
+189,male,whole,0,0,1,1,lower,parralel scars,No scars,open,curved inward
+190,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+191,male,whole,0,0,0,0,none,Isolated scars,No scars,open,no curve
+192,male,whole,0,0,0,0,none,grid scars,No scars,open,no curve
+193,male,whole,0,0,1,1,lower,Isolated scars,Isolated scars,uncertain,no curve
+194,male,whole,1,0,0,1,upper,parralel scars,No scars,open,no curve
+195,male,whole,0,0,0,0,none,grid scars,Isolated scars,open,no curve
+196,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+197,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+198,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+199,female,whole,0,0,0,0,none,Isolated scars,No scars,open,female
+200,female,whole,0,0,0,0,none,No scars,No scars,closed,female
+201,female,whole,0,0,0,0,none,grid scars,Isolated scars,open,female
+202,male,whole,0,0,1,1,lower,No scars,No scars,closed,no curve
+203,male,whole,0,1,0,1,middle,parralel scars,No scars,open,no curve
+204,male,whole,1,0,0,1,upper,parralel scars,No scars,open,curved inward
+205,female,whole,0,0,0,0,none,parralel scars,Isolated scars,closed,female
+206,male,whole,0,0,0,0,none,No scars,No scars,closed,curved inward
+207,male,whole,1,1,0,2,middle,uncertain (picture quality),No scars,uncertain,curved inward
+208,male,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),uncertain (picture quality),No scars,open,uncertain
+209,male,whole,broken dorsal tip,1,0,2,middle,parralel scars,uncertain (picture quality),open,curved inward
+210,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+211,female,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),Isolated scars,No scars,open,female
+212,male,whole,0,0,0,0,none,No scars,No scars,uncertain,curved inward
+213,male,whole,1,0,0,1,upper,grid scars,No scars,open,no curve
+214,male,whole,0,0,0,0,none,parralel scars,No scars,open,uncertain
+215,male,whole,0,0,0,0,none,grid scars,No scars,closed,no curve
+216,female,whole,0,0,0,0,none,grid scars,parralel scars,closed,female
+217,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,uncertain,no curve
+218,female,whole,1,0,0,1,upper,Isolated scars,parralel scars,open,female
+219,male,whole,0,0,0,0,none,Isolated scars,No scars,open,curved inward
+220,female,whole,0,0,1,1,lower,parralel scars,parralel scars,open,female
+221,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+222,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+223,male,whole,0,1,0,1,middle,Isolated scars,No scars,uncertain,curved inward
+224,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+225,female,whole,0,0,1,1,lower,parralel scars,No scars,open,female
+226,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,open,curved inward
+227,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+228,male,whole,1,1,0,2,middle,parralel scars,No scars,open,curved inward
+229,male,whole,0,2,0,2,middle,uncertain (picture quality),parralel scars,uncertain,no curve
+230,male,whole,1,1,1,3,lower,uncertain (picture quality),No scars,closed,no curve
+231,male,whole,0,0,1,1,lower,parralel scars,No scars,closed,no curve
+232,male,whole,0,0,0,0,none,Isolated scars,No scars,open,no curve
+233,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+234,female,whole,0,1,0,1,middle,uncertain (picture quality),Isolated scars,closed,female
+235,male,whole,1,0,0,1,upper,uncertain (picture quality),No scars,closed,curved inward
+236,male,whole,1,0,0,1,upper,uncertain (picture quality),No scars,uncertain,curved inward
+237,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+238,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+239,male,whole,broken dorsal tip,0,0,1,upper,parralel scars,Isolated scars,uncertain,uncertain
+240,male,whole,0,1,0,1,middle,uncertain (picture quality),No scars,uncertain,curved inward
+241,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+242,male,whole,0,0,0,0,none,Isolated scars,Isolated scars,open,curved inward
+243,male,whole,0,0,0,0,none,Isolated scars,No scars,open,curved inward
+244,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+245,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+246,male,whole,0,0,0,0,none,parralel scars,No scars,open,no curve
+247,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+248,female,whole,0,0,1,1,lower,Isolated scars,parralel scars,open,female
+249,male,whole,1,0,0,1,upper,No scars,No scars,closed,curved inward
+250,male,whole,2,1,0,3,middle,grid scars,No scars,uncertain,curved inward
+251,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+252,male,whole,0,2,1,3,middle,parralel scars,No scars,uncertain,curved inward
+253,male,whole,broken dorsal tip,0,0,1,upper,grid scars,No scars,open,no dorsal fin
+254,male,whole,0,0,0,0,none,Isolated scars,Isolated scars,open,no curve
+255,male,whole,1,1,2,4,upper,parralel scars,No scars,closed,curved inward
+256,male,whole,2,0,0,2,upper,parralel scars,No scars,closed,curved inward
+257,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+258,male,whole,0,1,0,1,middle,parralel scars,Isolated scars,closed,curved inward
+259,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,curved inward
+260,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,curved inward
+261,male,whole,1,0,0,1,upper,No scars,mixed scars (blurred pattern),closed,no curve
+262,male,whole,0,0,0,0,none,grid scars,No scars,open,curved inward
+263,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,uncertain,no curve
+264,male,whole,0,0,0,0,none,grid scars,No scars,closed,curved inward
+265,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+266,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,no curve
+267,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,no curve
+268,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,open,female
+269,female,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),No scars,No scars,closed,female
+270,male,whole,0,2,1,3,middle,parralel scars,No scars,closed,no curve
+271,male,whole,0,1,0,1,middle,grid scars,No scars,closed,no curve
+272,female,whole,0,0,0,0,none,Isolated scars,No scars,open,female
+273,male,whole,0,1,0,1,middle,parralel scars,No scars,closed,curved inward
+274,male,whole,1,0,1,2,middle,uncertain (picture quality),No scars,uncertain,curved inward
+275,male,whole,0,1,0,1,middle,No scars,Isolated scars,closed,curved inward
+276,female,whole,0,0,1,1,lower,uncertain (picture quality),parralel scars,closed,female
+277,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,curved inward
+278,female,whole,1,0,0,1,upper,uncertain (picture quality),No scars,uncertain,female
+279,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+280,male,whole,0,0,0,0,none,parralel scars,Isolated scars,closed,curved inward
+281,male,whole,0,0,0,0,none,Isolated scars,parralel scars,open,no curve
+282,male,whole,0,0,0,0,none,mixed scars (blurred pattern),mixed scars (blurred pattern),open,no curve
+283,male,whole,1,1,2,4,multiple knicks the same size in multiple areas,uncertain (picture quality),No scars,uncertain,no curve
+284,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+285,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+286,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+287,female,whole,0,0,0,0,none,Isolated scars,No scars,closed,female
+288,male,whole,4,0,0,4,upper,parralel scars,No scars,closed,curved inward
+289,female,whole,0,0,1,1,lower,grid scars,No scars,closed,female
+290,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+291,female,whole,3,0,0,3,upper,uncertain (picture quality),grid scars,open,female
+292,male,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,curved inward
+293,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,female
+294,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+295,male,whole,0,1,1,2,lower,grid scars,No scars,closed,curved inward
+296,male,whole,0,0,1,1,upper,parralel scars,No scars,closed,curved inward
+297,male,whole,1,0,0,1,upper,uncertain (picture quality),No scars,open,curved inward
+298,female,whole,0,0,0,0,none,No scars,grid scars,closed,female
+299,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,uncertain,no curve
+300,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+301,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,no curve
+302,female,whole,0,0,0,0,none,uncertain (picture quality),Isolated scars,open,female
+303,male,whole,0,1,0,1,middle,grid scars,No scars,uncertain,no curve
+304,male,whole,0,1,0,1,middle,parralel scars,No scars,open,no curve
+305,male,whole,0,2,0,2,middle,uncertain (picture quality),No scars,uncertain,no curve
+306,male,whole,0,0,1,1,lower,parralel scars,No scars,open,curved inward
+307,male,whole,0,1,1,2,middle,uncertain (picture quality),No scars,uncertain,curved inward
+308,male,whole,0,1,0,1,middle,mixed scars (blurred pattern),No scars,closed,no curve
+309,female,whole,1,1,0,2,middle,Isolated scars,No scars,open,female
+310,male,whole,2,0,0,2,upper,parralel scars,No scars,open,curved inward
+311,male,whole,1,0,0,1,upper,parralel scars,No scars,open,curved inward
+312,male,whole,0,1,0,1,middle,No scars,Isolated scars,closed,curved inward
+313,male,whole,2,1,0,3,upper,No scars,grid scars,open,curved inward
+314,male,whole,2,1,0,3,upper,parralel scars,No scars,uncertain,no curve
+315,male,whole,2,3,1,6,multiple knicks the same size in multiple areas,Isolated scars,No scars,uncertain,no curve
+316,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+317,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,no curve
+318,male,whole,0,0,1,1,lower,uncertain (picture quality),No scars,uncertain,no curve
+319,female,whole,0,1,2,3,lower,Isolated scars,parralel scars,closed,female
+320,male,whole,0,0,0,0,none,Isolated scars,No scars,open,no curve
+321,male,whole,4,1,0,5,middle,mixed scars (blurred pattern),No scars,closed,curved inward
+322,male,whole,2,0,0,2,multiple knicks the same size in multiple areas,Isolated scars,No scars,open,curved inward
+323,female,whole,0,1,0,1,middle,Isolated scars,No scars,open,female
+324,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+325,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+326,female,whole,0,0,0,0,none,parralel scars,grid scars,open,female
+327,female,whole,0,0,0,0,none,parralel scars,mixed scars (blurred pattern),open,female
+328,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+329,male,whole,broken dorsal fin,broken dorsal fin,broken dorsal fin,1,unknown (picture quality),No scars,No scars,closed,no dorsal fin
+330,female,whole,0,0,0,0,none,uncertain (picture quality),parralel scars,closed,female
+331,female,whole,0,0,1,1,lower,uncertain (picture quality),No scars,open,female
+332,male,whole,2,0,1,3,multiple knicks the same size in multiple areas,parralel scars,No scars,closed,no curve
+333,female,whole,0,1,1,2,middle,parralel scars,No scars,closed,female
+334,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+335,female,whole,0,2,0,2,middle,uncertain (picture quality),No scars,closed,female
+336,female,whole,0,0,0,0,none,parralel scars,grid scars,open,female
+337,male,whole,0,1,0,1,middle,uncertain (picture quality),mixed scars (blurred pattern),closed,curved inward
+338,female,whole,0,2,1,3,middle,uncertain (picture quality),No scars,uncertain,female
+339,female,whole,0,0,0,0,none,parralel scars,parralel scars,open,female
+340,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+341,male,whole,0,0,0,0,none,grid scars,No scars,open,no curve
+342,male,whole,0,0,0,0,none,grid scars,parralel scars,open,no curve
+343,male,whole,2,0,0,2,upper,Isolated scars,No scars,open,no curve
+344,female,whole,0,0,1,1,lower,parralel scars,No scars,closed,female
+345,female,whole,0,0,0,0,none,Isolated scars,No scars,open,female
+346,female,whole,1,1,2,4,middle,uncertain (picture quality),No scars,open,female
+347,male,whole,0,0,1,1,lower,parralel scars,No scars,uncertain,no curve
+348,male,whole,0,0,0,0,none,grid scars,No scars,uncertain,no curve
+349,male,whole,0,0,0,0,none,parralel scars,Isolated scars,open,curved inward
+350,male,whole,0,0,0,0,none,parralel scars,No scars,closed,uncertain
+351,female,whole,0,1,0,1,middle,parralel scars,No scars,open,female
+352,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+353,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+354,female,whole,1,0,0,1,upper,parralel scars,No scars,closed,female
+355,male,whole,1,1,1,3,middle,parralel scars,No scars,closed,no curve
+356,male,whole,0,1,1,2,middle,grid scars,No scars,open,curved inward
+357,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+358,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,uncertain,female
+359,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+360,male,whole,0,0,0,0,none,grid scars,No scars,open,uncertain
+361,male,whole,2,2,0,4,upper,parralel scars,No scars,closed,uncertain
+362,male,whole,1,0,0,1,upper,parralel scars,No scars,closed,no curve
+363,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+364,male,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,no curve
+365,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+366,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+367,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+368,female,whole,0,0,0,0,none,grid scars,No scars,closed,female
+369,male,whole,0,0,0,0,none,grid scars,grid scars,closed,no curve
+370,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,closed,female
+371,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,female
+372,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+373,female,whole,0,0,0,0,none,mixed scars (blurred pattern),No scars,open,female
+374,uncertain (picture quality),whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),parralel scars,No scars,closed,uncertain
+375,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,open,female
+376,female,whole,0,0,0,0,none,uncertain (picture quality),Isolated scars,closed,female
+377,female,whole,0,0,0,0,none,parralel scars,No scars,uncertain,female
+378,female,whole,0,0,0,0,none,Isolated scars,No scars,closed,female
+379,male,whole,1,0,0,1,upper,parralel scars,Isolated scars,closed,curved inward
+380,male,whole,1,1,0,2,middle,parralel scars,No scars,open,curved inward
+381,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+382,male,whole,0,0,0,0,none,parralel scars,No scars,uncertain,no curve
+383,female,whole,1,0,0,1,upper,Isolated scars,parralel scars,closed,female
+384,male,whole,0,0,0,0,none,parralel scars,No scars,open,no curve
+385,female,whole,0,2,0,2,middle,uncertain (picture quality),No scars,uncertain,female
+386,male,whole,0,1,0,1,middle,parralel scars,No scars,uncertain,no curve
+387,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+388,male,whole,2,0,0,2,upper,parralel scars,No scars,uncertain,no curve
+389,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+390,female,whole,0,0,0,0,none,Isolated scars,No scars,uncertain,female
+391,male,whole,1,3,1,5,upper,uncertain (picture quality),No scars,uncertain,no curve
+392,male,whole,0,0,0,0,none,Isolated scars,No scars,closed,no curve
+393,female,whole,0,0,0,0,none,Isolated scars,No scars,open,female
+394,female,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),parralel scars,No scars,closed,female
+395,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+396,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+397,male,whole,2,1,0,3,upper,uncertain (picture quality),No scars,closed,curved inward
+398,female,whole,0,1,0,1,middle,No scars,No scars,closed,female
+399,female,whole,0,0,0,0,none,parralel scars,parralel scars,uncertain,female
+400,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+401,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+402,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+403,male,whole,2,0,2,4,upper,No scars,No scars,open,curved inward
+404,male,whole,0,0,0,0,none,parralel scars,No scars,open,no curve
+405,male,missing tip,2,2,1,5,multiple knicks the same size in multiple areas,uncertain (picture quality),No scars,uncertain,curved inward
+406,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+407,male,whole,0,0,0,0,none,grid scars,No scars,closed,no curve
+408,male,missing tip,0,0,0,0,none,No scars,No scars,open,no curve
+409,male,whole,1,2,0,3,middle,Isolated scars,No scars,closed,no curve
+410,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
+411,female,whole,0,0,0,0,none,parralel scars,Isolated scars,open,female
+412,female,whole,0,0,1,1,lower,parralel scars,Isolated scars,open,female
+413,male,whole,0,1,0,1,middle,mixed scars (blurred pattern),No scars,open,no curve
+414,male,whole,1,0,0,1,upper,parralel scars,No scars,closed,curved inward
+415,female,whole,1,1,0,2,multiple knicks the same size in multiple areas,uncertain (picture quality),uncertain (picture quality),uncertain,female
+416,male,whole,2,0,0,2,upper,parralel scars,No scars,open,no curve
+417,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+418,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+419,male,whole,0,1,0,1,middle,parralel scars,No scars,closed,no curve
+420,male,whole,0,0,0,0,none,uncertain (picture quality),Isolated scars,closed,curved inward
+421,male,whole,1,2,1,4,middle,parralel scars,No scars,closed,curved inward
+422,male,missing tip,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),mixed scars (blurred pattern),No scars,closed,curved inward
+423,male,whole,0,0,0,0,none,grid scars,No scars,open,curved inward
+424,female,whole,0,1,0,1,middle,No scars,parralel scars,closed,female
+425,female,missing tip,0,1,0,1,middle,grid scars,No scars,closed,female
+426,male,whole,0,0,0,0,none,parralel scars,No scars,open,curved inward
+427,male,whole,0,0,0,0,none,No scars,No scars,open,no curve
+428,male,missing tip,0,0,0,0,none,mixed scars (blurred pattern),parralel scars,closed,curved inward
+429,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+430,female,whole,0,0,0,0,none,parralel scars,No scars,open,female
+431,female,whole,0,0,0,0,none,uncertain (picture quality),No scars,closed,female
+432,female,whole,0,0,0,0,none,Isolated scars,No scars,closed,female
+433,male,whole,0,0,0,0,none,parralel scars,No scars,closed,no curve
+434,female,whole,0,0,0,0,none,parralel scars,No scars,closed,female
+435,male,whole,uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),uncertain (picture quality),unknown (picture quality),grid scars,No scars,open,no curve
+436,male,whole,broken dorsal tip,2,1,4,upper,parralel scars,Isolated scars,open,curved inward
+437,male,whole,2,0,0,2,upper,uncertain (picture quality),No scars,uncertain,curved inward
+438,female,completely broken off,0,0,0,0,none,parralel scars,No scars,open,female
+439,male,completely broken off,0,0,0,0,none,uncertain (picture quality),No scars,uncertain,curved inward
+440,male,whole,1,0,0,1,upper,grid scars,No scars,open,no curve
+441,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+442,female,whole,0,0,0,0,none,grid scars,No scars,open,female
+443,female,floppy fin,0,0,0,0,none,grid scars,Isolated scars,open,female
+444,male,whole,0,0,0,0,none,grid scars,No scars,open,no curve
+445,male,whole,0,0,0,0,none,parralel scars,No scars,closed,curved inward
