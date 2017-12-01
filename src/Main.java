@@ -49,6 +49,7 @@ public class Main {
 		
 		Tree t = new Tree(whales);
 		t = doGender(t);
+		t = doDorsalCondition(t);
 		t = doNumUpNick(t);
 		t = doNumMidNick(t);
 		t = doNumLowNick(t);
@@ -66,12 +67,44 @@ public class Main {
 
 		t = doBackMaleCurve(t);
 		System.out.println("Number of unique cases " + t.getCurrentLevel().size() );
+		
+		//print csv of it
+		printCSV(t);
+		
+		
 		System.out.println("Done");
 		
 		//
 		
 		
 		
+	}
+	
+	public static void printCSV(Tree t) {
+		//get unique classes
+		ArrayList<String> l = new ArrayList<String>();
+		l.add("Back of male dorsal fin curve,Open Saddle,White Scar Pattern,Black Scar Pattern,Location of Largest,Total Nicks,Low Nicks,Mid Nicks,Upper Nicks,Fin Condition,Sex,Number of Whales,Whale ID List");
+		for(Node n : t.getCurrentLevel()) {
+			String name = n.getTrait() + ",";
+			Node p = n.getParent();
+			if(!p.getTrait().equals("Full")) {
+				while(!p.getParent().getTrait().equals("Full")) {
+					name += p.getTrait() + ",";
+					p = p.getParent();
+				}
+			}
+			name += p.getTrait() + ",";
+			
+			String ws = ",";
+			for(Whale w : n.getWhales())
+				ws += w.getId() + " "; 
+			
+			l.add(name+n.getWhales().size()+ws);
+
+			
+		}
+		for(String s : l)
+			System.out.println(s);
 	}
 	
 	public static void printNodeInfo(Node n) {
@@ -133,6 +166,30 @@ public class Main {
 				}
 				else {
 					Node m = x.getChild(w.getNumUpNick());
+					m.addWhale(w);
+				}
+			}
+		}
+
+		
+		printNodeLevel(nodeLevel);
+		t.setCurrentLevel(nodeLevel);
+		return t;
+	}
+	
+	public static Tree doDorsalCondition(Tree t) {
+		ArrayList<Node> nodeLevel = new ArrayList<Node>();
+		for(Node x : t.getCurrentLevel()) {
+			for(Whale w : x.getWhales()) {
+				if(!x.nodeExist(w.getDorsalCondition())) { //if doesnt exist make it
+					Node n = new Node(w.getDorsalCondition(), w, x);
+					x.addChild(n);
+					t.addNode(n);
+					nodeLevel.add(n);
+					System.out.println("Made a new node: " + n.getTrait() +" for whale: " + w.getId()+ " , parent: " + n.getParent().getTrait());
+				}
+				else {
+					Node m = x.getChild(w.getDorsalCondition());
 					m.addWhale(w);
 				}
 			}
